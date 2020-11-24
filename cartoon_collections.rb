@@ -24,7 +24,7 @@ def long_planeteer_calls(planeteer_calls)
   
   planeteer_calls.find |element|
     element.length > 4
-  end
+  
 
 end
 
